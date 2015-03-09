@@ -59,7 +59,7 @@ which is officially supported by Docker.
         $ sudo apt-get update
         $ sudo apt-get install -t wheezy-backports linux-image-amd64
         
-2. Restart your system so Debian will use the new kernel from wheezy-backports
+2. Restart your system. This is necessary for Debian to use your new kernel.
 
 3. Install Docker using the get.docker.com script:
  
